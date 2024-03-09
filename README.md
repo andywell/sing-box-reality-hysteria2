@@ -36,10 +36,6 @@ bash <(curl -fsSL https://github.com/andywell/sing-box-reality-hysteria2/raw/mai
 - 支持任意门中转
 - 支持端口跳跃
 
-### warp自定义解锁功能
-![](https://img.mareep.net/blog/2023/12/d6fbf369c96dbabb160e67f76dac0d6d.jpg)
-
-
 ## Credit
 - [sing-box-example](https://github.com/chika0801/sing-box-examples)
 - [sing-reality-box](https://github.com/deathline94/sing-REALITY-Box)
