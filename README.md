@@ -10,7 +10,7 @@
 - 新添加了hysteria2端口跳跃功能
 
 # 简介
-- Reality Hysteria2 （vmess ws）一键安装脚本
+- Reality Hysteria2 一键安装脚本
   
 ## 使用教程
 
